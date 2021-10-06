@@ -1,0 +1,17 @@
+{
+  "month": "July",
+  "Expenses": [
+    {
+      "amount": 50,
+      "description": "coffee",
+      "category": "food"
+    }
+  ],
+  "name": "Stash",
+  "Incomes": [
+    {
+      "amount": 20,
+      "description": "work"
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+    "month": "",
+    "Expenses": [
+        {
+            "amount": 140,
+            "description": "coffee",
+            "category": "food"
+        },
+        {
+            "amount": 120,
+            "description": "candy",
+            "category": "food"
+        },
+        {
+            "amount": 110,
+            "description": "snickers",
+            "category": "food"
+        },
+        {
+            "amount": 6,
+            "description": "pizza",
+            "category": "food"
+        }
+    ],
+    "name": "",
+    "Incomes": [
+        {
+            "amount": 100,
+            "description": "work"
+        },
+        {
+            "amount": 100,
+            "description": "work"
+        },
+        {
+            "amount": 200,
+            "description": "birthday"
+        },
+        {
+            "amount": 1.12,
+            "description": "work"
+        },
+        {
+            "amount": 1.12,
+            "description": "work"
+        },
+        {
+            "amount": 1.12,
+            "description": "work"
+        }
+    ]
+}

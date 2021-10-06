@@ -1,0 +1,64 @@
+{
+    "month": "july",
+    "Expenses": [
+        {
+            "amount": 140,
+            "description": "coffee",
+            "category": "food"
+        },
+        {
+            "amount": 120,
+            "description": "candy",
+            "category": "food"
+        },
+        {
+            "amount": 110,
+            "description": "snickers",
+            "category": "food"
+        },
+        {
+            "amount": 6,
+            "description": "pizza",
+            "category": "food"
+        },
+        {
+            "amount": 4.2,
+            "description": "milk",
+            "category": "food"
+        },
+        {
+            "amount": 123,
+            "description": "asd",
+            "category": "asd"
+        },
+        {
+            "amount": 123,
+            "description": "asd",
+            "category": "asd"
+        },
+        {
+            "amount": 123,
+            "description": "asd",
+            "category": "asd"
+        }
+    ],
+    "name": "lucas",
+    "Incomes": [
+        {
+            "amount": 100,
+            "description": "work"
+        },
+        {
+            "amount": 200,
+            "description": "birthday"
+        },
+        {
+            "amount": 500,
+            "description": "work"
+        },
+        {
+            "amount": 150,
+            "description": "work"
+        }
+    ]
+}
